@@ -54,3 +54,7 @@ This project contributes to the ongoing discourse on mental health awareness by 
 - Ensured careful validation of results obtained through the generative AI tool.
 
 ---
+
+Dataset used:
+Senti140 Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
+Mental Health Dataset: https://www.kaggle.com/datasets/infamouscoder/mental-health-social-media
