@@ -56,5 +56,5 @@ This project contributes to the ongoing discourse on mental health awareness by 
 ---
 
 Dataset used:
-Senti140 Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
-Mental Health Dataset: https://www.kaggle.com/datasets/infamouscoder/mental-health-social-media
+Senti140 Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140.
+Mental Health Dataset: https://www.kaggle.com/datasets/infamouscoder/mental-health-social-media.
